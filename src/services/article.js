@@ -6,7 +6,7 @@ export const articleApi = createApi({
     baseQuery: fetchBaseQuery({
         baseUrl:'https://article-extractor-and-summarizer.p.rapidapi.com/',
         prepareHeaders:(headers)=>{
-          headers.set('x-rapidapi-key','2bb27dc20emshe9e9580a6e5f2d0p1d31a8jsnc3d25fd69c86');
+          headers.set('x-rapidapi-key','rapidApiKey');
           headers.set('x-rapidapi-host','article-extractor-and-summarizer.p.rapidapi.com');
           return headers;
         }
