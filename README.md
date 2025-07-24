@@ -1,6 +1,6 @@
 # React + Vite
 
-This is AI-Summarizer where user can give any website link and this will give Summary of the website [AI-Summarizer](https://ai-summarizer-theta-orpin.vercel.app/)
+This is AI-Summarizer where user can give any website url and this will give Summary of the website [AI-Summarizer](https://ai-summarizer-theta-orpin.vercel.app/)
 
 ![Screenshot 2025-03-22 094256](https://github.com/user-attachments/assets/d6e1d2fb-3e08-4df1-9837-26c789c4b0c3)
 
