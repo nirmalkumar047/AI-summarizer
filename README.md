@@ -2,6 +2,8 @@
 
 This is AI-Summarizer where user can give any website url and this will give Summary of the website [AI-Summarizer](https://ai-summarizer-theta-orpin.vercel.app/)
 
+watch the working video of [AI-Summarizer](https://drive.google.com/file/d/1y7xwAHk7pTQAr3AHIGFnPoAwUemLXxU_/view?usp=sharing)
+
 ![Screenshot 2025-03-22 094256](https://github.com/user-attachments/assets/d6e1d2fb-3e08-4df1-9837-26c789c4b0c3)
 
 
